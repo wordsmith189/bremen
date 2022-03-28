@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,300i&display=swap);
+
+div.my-header {
+    background-color: #272822;
+    background: position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 30px;
+    width: 100%;
+    text-align: left;
+}
+
+div.my-footer {
+    background-color: #272822;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    height: 30px;
+    width: 70%;
+}
+
+div.my-footer span {
+    font-size: 14pt;
+    font-family: "Josefin Sans";
+    color: #F7F8FA;
+    position: absolute;
+    left: 15px;
+    bottom: 2px;
+}
+.highlight-front a{ 
+   color: #FFFACD;
+}

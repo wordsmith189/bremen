@@ -1,0 +1,56 @@
+---
+title: "Bicultural identity orientations among Jamaican Canadians"
+subtitle: "The sociolinguistic correlates of hybrid, alternating, and conflicting identities in a Creole-using diaspora"
+author: "Lars Hinrichs<br/>The University of Texas at Austin"
+date: '03/2022'
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: [xaringan-themer.css, footer-header.css, my-css.css]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+---
+layout: true
+class: middle
+
+<div class="my-footer"><span class="highlight-front">slides: <a href="https://bit.ly/hinrichs-slides-bremen">bit.ly/hinrichs-slides-bremen&emsp;|&emsp;web: <a href="https://larshinrichs.site">larshinrichs.site</a></span></div> 
+
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+```
+
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#1381B0",
+  secondary_color = "#FF961C",
+  inverse_header_color = "#FFFFFF",
+  text_font_family = "Josefin Sans",
+  text_font_size = "1.8rem",
+  title_slide_text_color = "white"
+)
+```
+
+---
+
+
+
+---
+
+
+
