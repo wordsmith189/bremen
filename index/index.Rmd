@@ -37,18 +37,65 @@ knitr::opts_chunk$set(
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
 style_duo_accent(
-  primary_color = "#1381B0",
-  secondary_color = "#FF961C",
+  primary_color = "#480c69",
+  secondary_color = "#B8D3B3",
   inverse_header_color = "#FFFFFF",
-  text_font_family = "Josefin Sans",
+  header_font_google = google_font("Josefin Sans", "600", "600i"),
+  text_font_google   = google_font("Spectral", "300", "300i"),
   text_font_size = "1.8rem",
-  title_slide_text_color = "white"
+  title_slide_text_color = "white",
+  background_color = "#DCDCDC"
 )
 ```
 
 ---
+class: inverse
+
+# Outline
+
+1. The Toronto Jamaican Community
+1. Bicultural identity orientations
+1. Identity orientations in variation analysis
+1. Conclusions
+
+---
+
+> Comănaru, Ruxandra-Silvia, Kimberly A. Noels, and Jean-Marc Dewaele. 2018. “Bicultural Identity Orientation of Immigrants to Canada.” *Journal of Multilingual and Multicultural Development* 39:6: 526–41. .small[https://doi.org/10.1080/01434632.2017.1404069]
+
+---
+
+# Bicultural identity orientations
+
+The study design postulated a minimum of three identity orientation types: 
+1. integration/hybridity,
+1. conflict, and
+1. alternation.
 
 
+---
+
+The researchers remained open to identifying additional orientation types. The initial survey was based on 40 Likert-type items. Results were submitted to a clustering method and the authors determined a __5-cluster model__ was the best fit to the data
+
+---
+layout: false
+
+.right.small[Comănaru et al. 2018]
+
+## Five types of bicultural identity orientation
+
+1.	__conflicted__ &mdash; a perceived discord between the two cultural identities
+--
+
+1.	__monocultural__ &mdash;	identification with only one of the two cultures
+--
+
+1.	__alternating__ &mdash;	the shifting of identities according to the cultural context)
+--
+
+1.	__complementary__ &mdash;	compatibility between the two distinct identities), and
+--
+
+1.	__hybrid__ &mdash;	the blending of two cultural identities, yielding a new identity
 
 ---
 

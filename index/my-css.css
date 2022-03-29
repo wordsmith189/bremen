@@ -1,4 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,300i&display=swap);
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Rye&family=Trocchi&family=Vesper+Libre&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Crimson+Pro:wght@200&family=Rye&family=Trocchi&family=Vesper+Libre&display=swap');
+
 .title-slide {
   background-image: url(img/to-lightning.png);
   background-size: cover;
+}
+
+.small {
+  font-size: 80%;
+}
+
+.top{
+  vertical-align: top;
 }
